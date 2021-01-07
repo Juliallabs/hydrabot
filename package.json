@@ -1,0 +1,17 @@
+{
+  "name": "juliaperon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chatbot.js",
+  "dependencies": {
+    "johnny-five": "^2.0.0",
+    "tmi.js": "^1.5.0",
+    "twitch-bot": "^1.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

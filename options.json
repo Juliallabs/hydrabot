@@ -3,11 +3,11 @@
         "debug": false
     },
     "identity": {
-        "username": "your channel",
-        "password": "your key"
+        "username": "julialabs",
+        "password": "oauth:gvmjg2ln1vbsdbs2gt11xlfdx320b9"
        
     },
     "channels": [
-        "your channel"
+        "julialabs"
     ]
 }
