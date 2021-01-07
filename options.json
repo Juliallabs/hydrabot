@@ -1,0 +1,13 @@
+{
+    "options": {
+        "debug": false
+    },
+    "identity": {
+        "username": "your channel",
+        "password": "your key"
+       
+    },
+    "channels": [
+        "your channel"
+    ]
+}
