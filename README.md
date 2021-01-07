@@ -9,4 +9,11 @@ BOM LIST
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
+
+
 REFERENCIA PARA COMPRAS
+|COMPONENTE|QUANTIDADE|REFERÊNCIA|
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
