@@ -14,6 +14,6 @@ BOM LIST
 REFERENCIA PARA COMPRAS
 |COMPONENTE|QUANTIDADE|REFERÊNCIA|
 |---|---|---|
-|   |   |   |
+|PEMN1   |   |[metaltex] (https://www.eletrodex.com.br/pemn1-conector-placa-cabo-passo-2-50mm-macho-90-metaltex.html)  |
 |   |   |   |
 |   |   |   |
