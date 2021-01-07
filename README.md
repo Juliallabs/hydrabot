@@ -17,3 +17,7 @@ REFERENCIA PARA COMPRAS
 |PEMN1   |   |[metaltex](https://www.eletrodex.com.br/pemn1-conector-placa-cabo-passo-2-50mm-macho-90-metaltex.html)  |
 |FEF1   |   |[meltaltex](https://www.eletrodex.com.br/pef1-conector-metaltex-passo-2-50mm-alojamento.html)   |
 |   |   |   |
+
+
+COMO FUNCIONA?
+<img src="twitch-chat-esp.png">
