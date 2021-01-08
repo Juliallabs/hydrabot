@@ -1,0 +1,13 @@
+{
+    "options": {
+        "debug": false
+    },
+    "identity": {
+        "username": "julialabs",
+        "password": "oauth:gvmjg2ln1vbsdbs2gt11xlfdx320b9"
+       
+    },
+    "channels": [
+        "julialabs"
+    ]
+}
