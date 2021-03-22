@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 5.669291 9.4165409"
+   width="1.5mm"
+   height="2.4914596mm"
+   version="1.1"
+   id="svg56"
+   sodipodi:docname="gota.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata60">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview58"
+     showgrid="false"
+     inkscape:zoom="10.688999"
+     inkscape:cx="23.51335"
+     inkscape:cy="11.908342"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g52"
+     inkscape:document-units="mm"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="true"
+     units="mm" />
+  <defs
+     id="defs22">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path10" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path13" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path15" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path17" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g52"
+     transform="translate(-147.51872,-217.82337)">
+    <g
+       id="g92-5"
+       transform="matrix(-0.07795917,0,0,0.07795917,156.66287,226.68494)"
+       style="fill:#000000">
+      <path
+         d="m 50.797858,-49.228043 c 3.292098,-4.963942 6.395837,-10.042968 9.306053,-15.226024 2.910216,-5.183056 5.62691,-10.470142 8.144915,-15.850203 2.518006,-5.38006 4.837324,-10.853095 6.952791,-16.40805 2.115467,-5.55495 4.027082,-11.19183 5.729681,-16.89957 1.702741,5.70774 3.614463,11.34462 5.730009,16.89957 2.115547,5.554955 4.434918,11.02799 6.952959,16.40805 2.518041,5.380061 5.234752,10.667147 8.144974,15.850203 2.91023,5.183056 6.01397,10.262082 9.30607,15.226024 2.75905,4.160618 4.54434,8.683497 5.41029,13.299909 0.86594,4.616412 0.81253,9.326357 -0.10585,13.861105 -0.91837,4.534749 -2.7017,8.894302 -5.29559,12.8099314 -2.5939,3.915629 -5.99835,7.3873344 -10.15897,10.14638694 C 96.754714,3.6486254 92.231941,5.4341008 87.6156,6.3001493 82.999259,7.1661979 78.28935,7.1128191 73.754601,6.1944456 69.219852,5.2760721 64.860264,3.4927051 60.944563,0.89877616 57.028863,-1.6951522 53.557052,-5.099642 50.797858,-9.2602598 c -2.008022,-3.0279172 -3.51404,-6.2828482 -4.518052,-9.6512952 -1.004013,-3.368447 -1.50602,-6.850409 -1.506021,-10.332389 -10e-7,-3.481979 0.502003,-6.963976 1.506015,-10.332492 1.004012,-3.368516 2.510031,-6.623551 4.518058,-9.651607 z"
+         style="fill:#000000;stroke:#131112;stroke-width:0.401946;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path94-4"
+         sodipodi:nodetypes="ccccccccccccccccccccc" />
+    </g>
+  </g>
+  <desc
+     id="desc54">arquivo_corte_mdf_3mm.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+</svg>

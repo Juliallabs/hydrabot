@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40.005001mm"
+   height="61.425678mm"
+   viewBox="0 0 40.005001 61.425678"
+   version="1.1"
+   id="svg89"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="desenhando.svg">
+  <defs
+     id="defs83">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath107">
+      <path
+         d="M 0,0 V 27369.1 H 19341 V 0 Z m 9249.1201,10626.2 v 608.5 H 10087.8 v -608.5 z"
+         clip-rule="evenodd"
+         id="path105" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath119">
+      <path
+         d="M 320.95999,435.67999 V 667.84003 H 472.16 V 435.67999 Z m 58.4,0.16001 v 24.95999 h 34.40002 V 435.84 Z"
+         clip-rule="evenodd"
+         id="path117" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath927">
+      <path
+         d="M 0,-0.32 H 1.28 V 0.64 H 0 Z"
+         clip-rule="evenodd"
+         id="path925" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath937">
+      <path
+         d="M -0.32,-0.32 H 1.6 v 1.28 h -1.92 z"
+         clip-rule="evenodd"
+         id="path935" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath947">
+      <path
+         d="M 320.95999,435.67999 V 667.84003 H 472.16 V 435.67999 Z m 58.4,0.16001 v 24.95999 h 34.40002 V 435.84 Z"
+         clip-rule="evenodd"
+         id="path945" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4051">
+      <path
+         d="M 320.95999,667.35998 H 472.16 v 0.48005 H 320.95999 Z"
+         clip-rule="evenodd"
+         id="path4049" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4061">
+      <path
+         d="M 471.67999,440.79999 H 472.16 v 227.04004 h -0.48001 z"
+         clip-rule="evenodd"
+         id="path4059" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4071">
+      <path
+         d="M 320.95999,435.67999 V 667.84003 H 472.16 V 435.67999 Z m 58.4,0.16001 v 24.95999 h 34.40002 V 435.84 Z"
+         clip-rule="evenodd"
+         id="path4069" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4081">
+      <path
+         d="m 320.95999,440.79999 h 0.64002 v 227.04004 h -0.64002 z"
+         clip-rule="evenodd"
+         id="path4079" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4091">
+      <path
+         d="m 379.35999,435.84 h 34.56002 v 25.11999 h -34.56002 z"
+         clip-rule="evenodd"
+         id="path4089" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.7556338"
+     inkscape:cx="45.0723"
+     inkscape:cy="106.94207"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:lockguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1350"
+     inkscape:window-height="729"
+     inkscape:window-x="59"
+     inkscape:window-y="10"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata86">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-51.794989,-33.981669)">
+    <ellipse
+       style="fill:none;fill-opacity:0;stroke:none;stroke-width:0.0247891;stroke-opacity:0.99"
+       id="path69"
+       cx="-65.026695"
+       cy="55.259483"
+       rx="0.69436789"
+       ry="0.59986949"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="text76"><textPath
+         xlink:href="#path69"
+         id="textPath78"><tspan
+           id="tspan74"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;font-family:roboto;-inkscape-font-specification:roboto;stroke-width:0.264583">GND</tspan></textPath></text>
+    <ellipse
+       style="fill:none;fill-opacity:0;stroke:none;stroke-width:0.0247891;stroke-opacity:0.99"
+       id="ellipse130"
+       cx="-67.575508"
+       cy="55.355499"
+       rx="0.69436789"
+       ry="0.59986949"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="text136"
+       transform="translate(0.09601542,2.5488088)"><textPath
+         xlink:href="#path69"
+         id="textPath134">IO19<tspan
+   id="tspan132"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;font-family:roboto;-inkscape-font-specification:roboto;stroke-width:0.264583" /></textPath></text>
+    <ellipse
+       style="fill:none;fill-opacity:0;stroke:none;stroke-width:0.0247891;stroke-opacity:0.99"
+       id="ellipse158"
+       cx="-70.159523"
+       cy="55.259483"
+       rx="0.69436789"
+       ry="0.59986949"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="text164"
+       transform="translate(0,5.1328223)"><textPath
+         xlink:href="#path69"
+         id="textPath162">VCC</textPath></text>
+  </g>
+</svg>
